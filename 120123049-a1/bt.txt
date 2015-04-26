@@ -1,0 +1,1954 @@
+*********************************************************
+Roll No. : 11010601 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	hs409 	 Environmental Economics 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 11010602 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010603 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs409 	 Environmental Economics 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010604 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs409 	 Environmental Economics 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010605 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 11010606 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+	bt499 	 Project II 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt609 	 Bioprocess Engineering 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010607 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010608 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010610 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs422 	 Subaltern Voices and Narratives 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010611 
+COURSE LIST:  
+	hs403 	 Entrepreneurship & Economic Development 
+	bt499 	 Project II 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt609 	 Bioprocess Engineering 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010612 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010615 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010616 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010617 
+COURSE LIST:  
+	hs406 	 Philosophical Issues 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010618 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010620 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010621 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010622 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+	bt499 	 Project II 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt609 	 Bioprocess Engineering 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010623 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010624 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010625 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs403 	 Entrepreneurship & Economic Development 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 11010626 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 11010629 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010632 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010633 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010634 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	hs420 	 Writing Systems of the World 
+	bt499 	 Project II 
+	bt401 	 Frontiers in Biotechnology 
+	bt609 	 Bioprocess Engineering 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010635 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+	bt499 	 Project II 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt609 	 Bioprocess Engineering 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010636 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010637 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	hs423 	 Masculinities in Literature and Popular Culture 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 11010638 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010639 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 11010640 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs420 	 Writing Systems of the World 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010641 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010642 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs406 	 Philosophical Issues 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010643 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010644 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	hs409 	 Environmental Economics 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 11010645 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010646 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	hs403 	 Entrepreneurship & Economic Development 
+	bt499 	 Project II 
+	bt605 	 Gene Therapy 
+	bt401 	 Frontiers in Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 11010648 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 120106001 
+COURSE LIST:  
+	me321 	 Applied Thermodynamics 
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106002 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106003 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106004 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106005 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106007 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106008 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106009 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106011 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106013 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106014 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106015 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106016 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106018 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106019 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106020 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106021 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106024 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106027 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106029 
+COURSE LIST:  
+	me321 	 Applied Thermodynamics 
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106030 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106031 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106032 
+COURSE LIST:  
+	ma312 	  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106033 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106034 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106036 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106037 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106038 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106039 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106041 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106042 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106044 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106045 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106046 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106047 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106049 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt622 	 Biofuels 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106050 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106051 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 120106052 
+COURSE LIST:  
+	bt302 	 Biochemical Engineering 
+	bt308 	 Animal Cell Biotechnology 
+	bt601 	 Analytical Biotechnology 
+	bt306 	 IPR and Ethics and Bio-safety 
+	bt305 	 Industrial Microbiology 
+	bt330 	 Biochemical Engineering Laboratory 
+*********************************************************
+Roll No. : 130106001 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs237 	 Introduction to Archeology 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106003 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs213 	 Consumer Behaviour 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106004 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130106005 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs234 	 Introduction to Linguistics 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106006 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs213 	 Consumer Behaviour 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106008 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106009 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130106010 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106011 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs234 	 Introduction to Linguistics 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106013 
+COURSE LIST:  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130106014 
+COURSE LIST:  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130106016 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs203 	 Problems of Philosophy 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106017 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs213 	 Consumer Behaviour 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106019 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs203 	 Problems of Philosophy 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106020 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106021 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs213 	 Consumer Behaviour 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106023 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	dd220 	  
+	hs203 	 Problems of Philosophy 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106024 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130106025 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs234 	 Introduction to Linguistics 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106027 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs213 	 Consumer Behaviour 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106028 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs213 	 Consumer Behaviour 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106029 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs226 	 Macroeconomics 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106030 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs213 	 Consumer Behaviour 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106031 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs237 	 Introduction to Archeology 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106032 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs234 	 Introduction to Linguistics 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106033 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs234 	 Introduction to Linguistics 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106036 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106037 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130106038 
+COURSE LIST:  
+	ee213 	  
+	cl205 	 Mass Transfer Operations I 
+	hs213 	 Consumer Behaviour 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106039 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs223 	 Language and Society 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106041 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130106043 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130106044 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs203 	 Problems of Philosophy 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106045 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs234 	 Introduction to Linguistics 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106048 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106049 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106050 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106051 
+COURSE LIST:  
+	cl205 	 Mass Transfer Operations I 
+	hs234 	 Introduction to Linguistics 
+	bt290 	 Biomolecular Analysis Lab 
+	bt202 	 Microbiology 
+	bt205 	 Biophysics 
+	bt208 	 Molecular Biology & Genetic Engineering 
+*********************************************************
+Roll No. : 130106052 
+COURSE LIST:  
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 134106001 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106002 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106003 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106004 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106005 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106006 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106008 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106009 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106010 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106011 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106012 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106013 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106014 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106015 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106017 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106018 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106020 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106021 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106022 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106023 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106027 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106028 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106029 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106030 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106031 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106033 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106036 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134106037 
+COURSE LIST:  
+	bt699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 140106001 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106002 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106004 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106005 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106006 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106007 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106008 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106009 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106010 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106011 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106013 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106015 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106018 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106019 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106020 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106021 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106022 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106023 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106024 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106025 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106027 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106028 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106031 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106032 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106034 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106035 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106038 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106040 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106041 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106042 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106043 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106044 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106045 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106046 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106047 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106048 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106049 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106050 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106052 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106053 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106054 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140106055 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 144106002 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106003 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106004 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106005 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106006 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 144106008 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106011 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 144106012 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+*********************************************************
+Roll No. : 144106014 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 144106015 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 144106016 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106017 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+*********************************************************
+Roll No. : 144106018 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt601 	 Analytical Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106020 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106021 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106022 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106023 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 144106024 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106025 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106026 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106027 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 144106028 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 144106030 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106031 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+*********************************************************
+Roll No. : 144106032 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+*********************************************************
+Roll No. : 144106033 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106034 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 144106035 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+*********************************************************
+Roll No. : 144106037 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+*********************************************************
+Roll No. : 144106038 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 144106039 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt622 	 Biofuels 
+*********************************************************
+Roll No. : 144106040 
+COURSE LIST:  
+	bt520 	 Applied Biology and Bio-engineering Lab 
+	bt605 	 Gene Therapy 
+	bt504 	 Biomolecular and Cellular Process Engineering 
+	bt502 	 Quantitative Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106002 
+COURSE LIST:  
+	bt601 	 Analytical Biotechnology 
+	bt630 	 Physical Cell Biology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106004 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt502 	 Quantitative Biology 
+*********************************************************
+Roll No. : 146106005 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt601 	 Analytical Biotechnology 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 146106006 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106008 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106011 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt601 	 Analytical Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106012 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt622 	 Biofuels 
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 146106013 
+COURSE LIST:  
+	bt601 	 Analytical Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106014 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106016 
+COURSE LIST:  
+	ce524 	 Biological Processes in Environmental Engg 
+	bt622 	 Biofuels 
+*********************************************************
+Roll No. : 146106018 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106019 
+COURSE LIST:  
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106023 
+COURSE LIST:  
+	bt622 	 Biofuels 
+	bt601 	 Analytical Biotechnology 
+*********************************************************
+Roll No. : 146106026 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt601 	 Analytical Biotechnology 
+*********************************************************
+Roll No. : 146106028 
+COURSE LIST:  
+	bt601 	 Analytical Biotechnology 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106029 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106030 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt619 	 Essential of Genetics 
+*********************************************************
+Roll No. : 146106034 
+COURSE LIST:  
+	bt605 	 Gene Therapy 
+	bt601 	 Analytical Biotechnology 
+	bt609 	 Bioprocess Engineering 

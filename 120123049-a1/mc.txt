@@ -1,0 +1,2672 @@
+*********************************************************
+Roll No. : 11010230 
+COURSE LIST:  
+	ee626 	 Biomedical Signal Processing 
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee625 	 Computer Vision 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010231 
+COURSE LIST:  
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010232 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010233 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010234 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010235 
+COURSE LIST:  
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010236 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010237 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee625 	 Computer Vision 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010238 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010239 
+COURSE LIST:  
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11012230 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012231 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012232 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ch417 	 Organometallic Chemistry 
+	cl613 	 Computational Fluid Dynamics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11012233 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ch637 	 Advanced Quantum Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012235 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012236 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012237 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012238 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch418 	 Biological Chemistry of Metal Ions 
+	hs410 	 History of Contemporary India 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11012239 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ch637 	 Advanced Quantum Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012301 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012302 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012303 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012304 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012306 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012307 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012308 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012309 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012310 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma622 	 Galois Theory 
+	ma499 	 Project II 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012311 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012312 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma499 	 Project II 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012313 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012314 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012315 
+COURSE LIST:  
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012316 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012318 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma622 	 Galois Theory 
+	ma499 	 Project II 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012319 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012320 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012321 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012322 
+COURSE LIST:  
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012323 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012324 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012325 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012326 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012327 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012328 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012329 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012330 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012331 
+COURSE LIST:  
+	ma473 	 Computational Finance 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012332 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012333 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012335 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma499 	 Project II 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012337 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012338 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11012339 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma561 	 Fluid Dynamics 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012340 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012341 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11012342 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012343 
+COURSE LIST:  
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012344 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012345 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012346 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012347 
+COURSE LIST:  
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	ma691 	 Statistical Simulation and data Analysis 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012348 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012349 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma473 	 Computational Finance 
+	ma451 	 Parallel Computing 
+	ma499 	 Project II 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 120123001 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123002 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123003 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123004 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123005 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123006 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123007 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123008 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123009 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123010 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123013 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123014 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123016 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+	dd320 	  
+*********************************************************
+Roll No. : 120123018 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123019 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123020 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123021 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123022 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123024 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123025 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123026 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123027 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123028 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123029 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123031 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123033 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123034 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123035 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123037 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123038 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123039 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123040 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123041 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123042 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123043 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123044 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123045 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123047 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123048 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123049 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123050 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123051 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123052 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123053 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 120123054 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	ma374 	 Financial Engineering Lab 
+	ma351 	 Formal Lanuages and Automata Theory 
+	ma321 	 Optimization 
+	ma451 	 Parallel Computing 
+	ma373 	 Financial Engineering II 
+*********************************************************
+Roll No. : 130123001 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130123003 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123004 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130123005 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130123006 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123007 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130123008 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123009 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123010 
+COURSE LIST:  
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130123011 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130123012 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130123013 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123014 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130123015 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130123016 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123017 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	dd220 	  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123018 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130123019 
+COURSE LIST:  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130123020 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123021 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123022 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130123023 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123024 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123025 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130123026 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123027 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123028 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123029 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130123030 
+COURSE LIST:  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130123031 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123032 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130123033 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123034 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130123035 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130123036 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130123037 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	dd220 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130123038 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123039 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130123040 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123041 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130123042 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 130123043 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130123044 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130123045 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130123046 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	dd220 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130123047 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130123048 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130123049 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130123050 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130123051 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	ma253 	 Data Structures Lab with Object Oriented programming 
+	ma224 	 Real Analysis 
+	ma271 	 Financial Engineering I 
+	ma252 	 Data Structures and Algorithms 
+	ma226 	 Monte Carlo Simulation 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 132123001 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123002 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123003 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123004 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123005 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma622 	 Galois Theory 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123006 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123007 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123008 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123009 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123010 
+COURSE LIST:  
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma622 	 Galois Theory 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123011 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123012 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123014 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123016 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123017 
+COURSE LIST:  
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma622 	 Galois Theory 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123018 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123019 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123020 
+COURSE LIST:  
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma622 	 Galois Theory 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123022 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123023 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123024 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123025 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123027 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123028 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123029 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma622 	 Galois Theory 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123030 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma622 	 Galois Theory 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123032 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123033 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123034 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123036 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123037 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma622 	 Galois Theory 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123038 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123039 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123040 
+COURSE LIST:  
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma622 	 Galois Theory 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123041 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma643 	 Algebraic Topology 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123042 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123043 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma622 	 Galois Theory 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123044 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123045 
+COURSE LIST:  
+	ma561 	 Fluid Dynamics 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma622 	 Galois Theory 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 132123046 
+COURSE LIST:  
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 
+	ma573 	 Numerics of Partial Differential Equations 
+	ma699 	 Project II 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+	ma571 	 Numerical Linear Algebra 
+*********************************************************
+Roll No. : 140123001 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123002 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123003 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123004 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123005 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123006 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123007 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123008 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123009 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123010 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123011 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123012 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123013 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123014 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123015 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123016 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123017 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123018 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123019 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123020 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123021 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123022 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123023 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123024 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123025 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123026 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123027 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123028 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123029 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123030 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123031 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123032 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123033 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123034 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123035 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123036 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123037 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123038 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123039 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123040 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123041 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123042 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123043 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123044 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123045 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140123046 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 142123001 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123002 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123003 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123004 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123005 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123006 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123008 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123009 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123011 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123012 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123013 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123014 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123015 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123016 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123017 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123019 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123020 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123021 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123022 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123023 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123024 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123025 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123026 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123028 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123029 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123030 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123031 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123033 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123034 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123035 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123036 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123037 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123038 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123039 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123040 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123041 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123042 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123043 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123044 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123046 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 142123049 
+COURSE LIST:  
+	ma512 	 Data Structures and Algorithms 
+	ma591 	 Optimization Techniques 
+	ma590 	 Probability Theory and Random Processes 
+	ma547 	 Complex Analysis 
+	ma542 	 Differential Equation 
+*********************************************************
+Roll No. : 146123001 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma671 	 Finite Element Methods for Partial Differential Equations 
+*********************************************************
+Roll No. : 146123002 
+COURSE LIST:  
+	ma641 	 Operator Theory in Hilbert Spaces 
+	ma719 	 Linear Algebra II 
+	ma643 	 Algebraic Topology 
+	ma747 	 Measure Theory 
+*********************************************************
+Roll No. : 146123003 
+COURSE LIST:  
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs561 	 Artificial Intelligence 
+	ma616 	 Algorithms for Wireless Ad Hoc and Sensor Networks 

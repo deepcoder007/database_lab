@@ -1,0 +1,3842 @@
+*********************************************************
+Roll No. : 11010101 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010102 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs522 	 Embedded Systems 
+	cs561 	 Artificial Intelligence 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010103 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010104 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010105 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010106 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010107 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010108 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs522 	 Embedded Systems 
+	cs561 	 Artificial Intelligence 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010109 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs561 	 Artificial Intelligence 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010110 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010111 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs510 	 Information and Randomness 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010112 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010113 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010114 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010115 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010116 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010117 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010118 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010119 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs561 	 Artificial Intelligence 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010120 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs572 	 Computational Systems Biology 
+	cs510 	 Information and Randomness 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010121 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010122 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010123 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010124 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010125 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010126 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010127 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010128 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010129 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010130 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010131 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010132 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010133 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010134 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs522 	 Embedded Systems 
+	cs561 	 Artificial Intelligence 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010135 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010136 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010137 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010138 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	cs510 	 Information and Randomness 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010139 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs522 	 Embedded Systems 
+	cs561 	 Artificial Intelligence 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010141 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010142 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010143 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010144 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010145 
+COURSE LIST:  
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010146 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs561 	 Artificial Intelligence 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010147 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010148 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010149 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010150 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010151 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010152 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010153 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010154 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010155 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010156 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010157 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010158 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010159 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010160 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs522 	 Embedded Systems 
+	cs561 	 Artificial Intelligence 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010161 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010162 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010163 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010164 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010165 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010166 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs522 	 Embedded Systems 
+	cs561 	 Artificial Intelligence 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010167 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010168 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010169 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs572 	 Computational Systems Biology 
+	cs510 	 Information and Randomness 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010170 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010171 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010172 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs522 	 Embedded Systems 
+	cs561 	 Artificial Intelligence 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010173 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010174 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs561 	 Artificial Intelligence 
+	cs510 	 Information and Randomness 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010175 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+	cs510 	 Information and Randomness 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010176 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010177 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs522 	 Embedded Systems 
+	cs561 	 Artificial Intelligence 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010178 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs522 	 Embedded Systems 
+	cs561 	 Artificial Intelligence 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010179 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010180 
+COURSE LIST:  
+	cs499 	 Project I 
+	cs544 	 Topics in Networks 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 120101001 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101002 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101003 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101004 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101005 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101006 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101007 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101008 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101009 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101010 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101012 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101014 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101016 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101017 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101018 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+	dd320 	  
+*********************************************************
+Roll No. : 120101020 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101021 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101022 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101023 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101024 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101025 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101026 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101027 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101028 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101029 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101031 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101032 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101034 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101035 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101036 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101037 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101038 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101039 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101040 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101041 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101042 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101043 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs561 	 Artificial Intelligence 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101045 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101046 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101047 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101048 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101049 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101050 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101051 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101052 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101053 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101054 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101055 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101056 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101057 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101058 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101059 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+	ma312 	  
+*********************************************************
+Roll No. : 120101060 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101061 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101062 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101063 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101064 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101065 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101067 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101069 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101070 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101071 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101072 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101073 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101074 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101076 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101077 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101079 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101080 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101081 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101082 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101083 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101084 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101085 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101086 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101087 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 120101088 
+COURSE LIST:  
+	cs348 	 Computer Networks 
+	cs346 	 Compilers 
+	cs349 	 Networks Lab 
+	cs345 	 Database Lab 
+	cs344 	 Databases 
+	cs347 	 Compilers Lab 
+	ma321 	 Optimization 
+*********************************************************
+Roll No. : 130101001 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101002 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101003 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101004 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101005 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	ph282 	  
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101006 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101007 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs213 	 Consumer Behaviour 
+	bt202 	 Microbiology 
+*********************************************************
+Roll No. : 130101008 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130101009 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130101010 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101011 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101012 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101013 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	dd220 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130101014 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101015 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130101016 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130101017 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130101018 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101019 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130101020 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130101021 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130101022 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130101023 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130101024 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101025 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101026 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101027 
+COURSE LIST:  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101028 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130101029 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101031 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130101032 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101033 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101034 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130101035 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101036 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101037 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101038 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130101039 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130101040 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130101041 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101042 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101043 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101044 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130101045 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130101046 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101047 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	ph282 	  
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101048 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs561 	 Artificial Intelligence 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	ee657 	 Pattern Recognition and Machine Learning 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101049 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101050 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130101051 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130101052 
+COURSE LIST:  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130101053 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101054 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130101055 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101056 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130101057 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130101058 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101059 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101060 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130101061 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101062 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101063 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101064 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130101065 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101066 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs561 	 Artificial Intelligence 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101067 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101068 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130101069 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130101070 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs561 	 Artificial Intelligence 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101071 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs561 	 Artificial Intelligence 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130101072 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101073 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130101074 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101075 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101076 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130101077 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs510 	 Information and Randomness 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	ma212 	  
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101078 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130101079 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101080 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130101081 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130101082 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101083 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101084 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs561 	 Artificial Intelligence 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	ee213 	  
+	ee657 	 Pattern Recognition and Machine Learning 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130101085 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101086 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130101087 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130101088 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	ee213 	  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130101089 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs242 	 Software Engineering 
+	cs244 	 Systems Programming Lab 
+	cs243 	 Software Engineering Lab 
+	cs223 	 Hardware Laboratory 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 134101003 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101004 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101005 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101006 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101007 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101008 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101010 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101011 
+COURSE LIST:  
+	cs698 	 Project Phase I 
+*********************************************************
+Roll No. : 134101012 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101013 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101014 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101015 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101016 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101020 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101021 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101022 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101023 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101024 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101028 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101031 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101033 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101034 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101035 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101036 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101038 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101039 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101040 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101041 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101046 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101052 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101055 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101057 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101064 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101066 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101067 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101071 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101072 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 134101073 
+COURSE LIST:  
+	cs699 	  
+*********************************************************
+Roll No. : 140101001 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101002 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101003 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101004 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101005 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101006 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101007 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101008 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101009 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101010 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101011 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101012 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101013 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101014 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101015 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101016 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101017 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101018 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101019 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101020 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101021 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101022 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101023 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101024 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101025 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101026 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101027 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101028 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101029 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101030 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101031 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101032 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101033 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101034 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101035 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101036 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101037 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101038 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101039 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101040 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101041 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101042 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101043 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101044 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101045 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101046 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101047 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101048 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101049 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101050 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101051 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101052 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101053 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101054 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101055 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101056 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101057 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101058 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101059 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101060 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101061 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101062 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101063 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101064 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101065 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101066 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101067 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101068 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101069 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101070 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101071 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101072 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101073 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101074 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101075 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101076 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101077 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101078 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101079 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140101080 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 144101001 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+*********************************************************
+Roll No. : 144101002 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs522 	 Embedded Systems 
+	cs666 	 Mobile Robotics 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101003 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101004 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101005 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101007 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs561 	 Artificial Intelligence 
+	cs510 	 Information and Randomness 
+*********************************************************
+Roll No. : 144101008 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101009 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101010 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101011 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101013 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101014 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs561 	 Artificial Intelligence 
+	cs510 	 Information and Randomness 
+*********************************************************
+Roll No. : 144101023 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101024 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101026 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101027 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+*********************************************************
+Roll No. : 144101028 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101029 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101030 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101032 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101033 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs561 	 Artificial Intelligence 
+	cs510 	 Information and Randomness 
+*********************************************************
+Roll No. : 144101034 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101036 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101037 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101039 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101040 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+*********************************************************
+Roll No. : 144101041 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101042 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101043 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101044 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101045 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs561 	 Artificial Intelligence 
+	cs510 	 Information and Randomness 
+*********************************************************
+Roll No. : 144101046 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101047 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101048 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101051 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101053 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101057 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs522 	 Embedded Systems 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+*********************************************************
+Roll No. : 144101058 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101059 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs522 	 Embedded Systems 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+*********************************************************
+Roll No. : 144101060 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101061 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101063 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs558 	 Systems Lab 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101065 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101068 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101069 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs561 	 Artificial Intelligence 
+	cs510 	 Information and Randomness 
+*********************************************************
+Roll No. : 144101072 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs522 	 Embedded Systems 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101074 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101075 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs561 	 Artificial Intelligence 
+	cs510 	 Information and Randomness 
+*********************************************************
+Roll No. : 144101076 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101077 
+COURSE LIST:  
+	cs558 	 Systems Lab 
+	cs666 	 Mobile Robotics 
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 144101078 
+COURSE LIST:  
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+	cs510 	 Information and Randomness 
+*********************************************************
+Roll No. : 144101079 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs522 	 Embedded Systems 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 146101003 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs222 	 Computer Organization & Architecture 
+*********************************************************
+Roll No. : 146101004 
+COURSE LIST:  
+	cs522 	 Embedded Systems 
+	cs222 	 Computer Organization & Architecture 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+*********************************************************
+Roll No. : 146101005 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs572 	 Computational Systems Biology 
+*********************************************************
+Roll No. : 146101006 
+COURSE LIST:  
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+*********************************************************
+Roll No. : 146101011 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+	cs503 	 RANDOMIZED ALGORITHMS 
+	cs350 	  
+	cs556 	 Performance Modeling of Communication and Computer Systems 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 146101012 
+COURSE LIST:  
+	cs522 	 Embedded Systems 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 146101013 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+*********************************************************
+Roll No. : 146101014 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+	cs222 	 Computer Organization & Architecture 
+*********************************************************
+Roll No. : 146101016 
+COURSE LIST:  
+	cs222 	 Computer Organization & Architecture 
+*********************************************************
+Roll No. : 146101018 
+COURSE LIST:  
+	cs544 	 Topics in Networks 
+*********************************************************
+Roll No. : 146101023 
+COURSE LIST:  
+	cs572 	 Computational Systems Biology 
+	cs561 	 Artificial Intelligence 
+*********************************************************
+Roll No. : 146201001 
+COURSE LIST:  
+	cs244 	 Systems Programming Lab 
+	cs350 	  
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+*********************************************************
+Roll No. : 146201002 
+COURSE LIST:  
+	cs244 	 Systems Programming Lab 
+	cs350 	  
+	cs561 	 Artificial Intelligence 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+*********************************************************
+Roll No. : 146201003 
+COURSE LIST:  
+	cs244 	 Systems Programming Lab 
+	cs350 	  
+	cs561 	 Artificial Intelligence 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 
+*********************************************************
+Roll No. : 146201004 
+COURSE LIST:  
+	cs244 	 Systems Programming Lab 
+	cs350 	  
+	cs561 	 Artificial Intelligence 
+	cs204 	 Algorithms 
+	cs203 	 Formal Languages and Automata Theory 

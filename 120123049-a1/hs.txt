@@ -1,0 +1,511 @@
+*********************************************************
+Roll No. : 11010411 
+COURSE LIST:  
+	me664 	 Theory of Elasticity 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce610 	 Computational Structural Mechanics 
+	ce606 	 Earthquake Engineering 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010412 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010413 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce661 	 Air Quality Modeling 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce649 	 Ground Improvement Techniques 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010414 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs423 	 Masculinities in Literature and Popular Culture 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11010415 
+COURSE LIST:  
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce560 	 Computational Methods in Hydraulics & Environmental Engg. 
+	ce402 	 Design Project 
+	ee562 	 Fundamentals of VLSI CAD 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010416 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs406 	 Philosophical Issues 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11010417 
+COURSE LIST:  
+	me664 	 Theory of Elasticity 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010418 
+COURSE LIST:  
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce607 	 Random Vibration 
+	ce402 	 Design Project 
+	ph446 	 Fundamentals of Astrophysics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010419 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 132241001 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241002 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241003 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241004 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241006 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241007 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241008 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241009 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241010 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241013 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241014 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241015 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241016 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241017 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241019 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241020 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241021 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241023 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241026 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241027 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241028 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 132241034 
+COURSE LIST:  
+	hs699 	 Dissertation 
+*********************************************************
+Roll No. : 134104100 
+COURSE LIST:  
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+*********************************************************
+Roll No. : 134104101 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104105 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104106 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104107 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 142241001 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs521 	 Region, Nation and the Making of Post-Colonial India 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241002 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241003 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241005 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241006 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241007 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241009 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241010 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241011 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241013 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241014 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241016 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241017 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs521 	 Region, Nation and the Making of Post-Colonial India 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241018 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241019 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241020 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs521 	 Region, Nation and the Making of Post-Colonial India 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241021 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241022 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241023 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241024 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241025 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241026 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241027 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 142241028 
+COURSE LIST:  
+	hs502 	 Development and Growth � Theoretical Perspective 
+	hs520 	 Environment and Development 
+	hs517 	 Comparative Politics in Developing Contries 
+	hs505 	 Research Methods in Social Sciences 
+	hs503 	 Sociology of Development 
+*********************************************************
+Roll No. : 144104100 
+COURSE LIST:  
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104101 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104102 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104104 
+COURSE LIST:  
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce612 	 Advanced Concrete Technology 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104105 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104107 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104108 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce534 	 Seminar 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce646 	 Rock Mechanics 
+	ce645 	 Soil-Structure Interaction 
+*********************************************************
+Roll No. : 144104111 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce510 	 Quality And Safety Management In Construction 
+	ce544 	 Project Management Laboratory 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce614 	 Financing Infrastructure Projects 
+*********************************************************
+Roll No. : 144104115 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104116 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 146141001 
+COURSE LIST:  
+	hs747 	 Human Memory 
+	hs714 	 Understanding Organisational Behaviour : Theory & Research 
+*********************************************************
+Roll No. : 146141002 
+COURSE LIST:  
+	hs747 	 Human Memory 
+	hs714 	 Understanding Organisational Behaviour : Theory & Research 
+*********************************************************
+Roll No. : 146141003 
+COURSE LIST:  
+	hs759 	 Understanding Nations and Nationalism 
+	hs723 	 Methods in Historical Research 
+	hs727 	 Issues in Historical Research 
+*********************************************************
+Roll No. : 146141004 
+COURSE LIST:  
+	hs754 	 Dynamics Methods in Economics 
+	hs706 	 Issues in Indian Economy 
+*********************************************************
+Roll No. : 146141007 
+COURSE LIST:  
+	hs521 	 Region, Nation and the Making of Post-Colonial India 
+	hs757 	 Sociology of Religion 
+*********************************************************
+Roll No. : 146141009 
+COURSE LIST:  
+	hs758 	 Posthumanism in Literature and Critical Theory 
+	hs718 	 Indian Writing in English 
+*********************************************************
+Roll No. : 146141011 
+COURSE LIST:  
+	hs758 	 Posthumanism in Literature and Critical Theory 
+	hs718 	 Indian Writing in English 
+*********************************************************
+Roll No. : 146141012 
+COURSE LIST:  
+	hs736 	 Approaches to Prosodic Structure 
+	hs749 	 Issues in Tone Languages 
+*********************************************************
+Roll No. : 146141013 
+COURSE LIST:  
+	hs754 	 Dynamics Methods in Economics 
+	hs706 	 Issues in Indian Economy 
+*********************************************************
+Roll No. : 146141014 
+COURSE LIST:  
+	hs736 	 Approaches to Prosodic Structure 
+	hs749 	 Issues in Tone Languages 
+*********************************************************
+Roll No. : 146141015 
+COURSE LIST:  
+	hs521 	 Region, Nation and the Making of Post-Colonial India 
+	hs757 	 Sociology of Religion 

@@ -1,0 +1,2884 @@
+*********************************************************
+Roll No. : 11010701 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010702 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010703 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010705 
+COURSE LIST:  
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs409 	 Environmental Economics 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11010706 
+COURSE LIST:  
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl626 	 Energy Sources 
+	hs410 	 History of Contemporary India 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11010707 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010708 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010709 
+COURSE LIST:  
+	me664 	 Theory of Elasticity 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010710 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010711 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010712 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010713 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010714 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010715 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl614 	 Fluidization Engineering 
+	cl404 	 Material Science 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010716 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010717 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010718 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010719 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010720 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl633 	 Applied Statistical Thermodynamics 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010721 
+COURSE LIST:  
+	cl618 	 Natural Gas Engineering 
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010722 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl614 	 Fluidization Engineering 
+	cl404 	 Material Science 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010723 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010724 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl622 	 Molecular Simulations: Principles and Applications 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010725 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010726 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010727 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl623 	 Polymer Science and Technology 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010728 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	cl499 	 Project II 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010729 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010730 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010731 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010732 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010733 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010734 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl614 	 Fluidization Engineering 
+	cl404 	 Material Science 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010735 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010737 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl623 	 Polymer Science and Technology 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010738 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl633 	 Applied Statistical Thermodynamics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010739 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl622 	 Molecular Simulations: Principles and Applications 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010740 
+COURSE LIST:  
+	cl499 	 Project II 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs409 	 Environmental Economics 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11010741 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010742 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl622 	 Molecular Simulations: Principles and Applications 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010743 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl623 	 Polymer Science and Technology 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010744 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010745 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010749 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010750 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010751 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010753 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010754 
+COURSE LIST:  
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010755 
+COURSE LIST:  
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010756 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010757 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010758 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010759 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl622 	 Molecular Simulations: Principles and Applications 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010760 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010761 
+COURSE LIST:  
+	ph446 	 Fundamentals of Astrophysics 
+	cl499 	 Project II 
+	cl622 	 Molecular Simulations: Principles and Applications 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010762 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010764 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl499 	 Project II 
+	cl401 	 Process Design and Project Engineering 
+	cl404 	 Material Science 
+	cl630 	 Composites Materials 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 120107001 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107002 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107003 
+COURSE LIST:  
+	me321 	 Applied Thermodynamics 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107004 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107005 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107006 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107007 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107008 
+COURSE LIST:  
+	me321 	 Applied Thermodynamics 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107009 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107011 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107012 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107013 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107014 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107015 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107016 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107017 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107018 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107019 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107020 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107021 
+COURSE LIST:  
+	me321 	 Applied Thermodynamics 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107025 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107026 
+COURSE LIST:  
+	me321 	 Applied Thermodynamics 
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107028 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107029 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107031 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107033 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107034 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107035 
+COURSE LIST:  
+	ma312 	  
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107036 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107037 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107038 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107039 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107040 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107041 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107043 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107044 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107045 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107046 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107047 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107048 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107052 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107053 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107054 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107055 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107056 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107057 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107059 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107061 
+COURSE LIST:  
+	ph445 	 Optical Communication Systems 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107062 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107064 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107069 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 120107070 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl307 	 Transport Phenomenon 
+	cl315 	 Mechanical Operations Lab 
+	cl309 	 Process Control and Instrumentation 
+	cl314 	 Numerical Methods in Chemical Engineering 
+	cl308 	 Chemical Reaction Engg. Engg. II 
+*********************************************************
+Roll No. : 130107001 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130107004 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107005 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130107006 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130107007 
+COURSE LIST:  
+	ma212 	  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107008 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107009 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130107010 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130107011 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130107013 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107014 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	dd220 	  
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130107015 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130107016 
+COURSE LIST:  
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107017 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107018 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130107019 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130107020 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130107021 
+COURSE LIST:  
+	me222 	 Manufacturing Technology I 
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130107022 
+COURSE LIST:  
+	me222 	 Manufacturing Technology I 
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107023 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130107024 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130107025 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130107026 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130107027 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130107028 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107029 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130107030 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130107031 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130107033 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130107035 
+COURSE LIST:  
+	me222 	 Manufacturing Technology I 
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107036 
+COURSE LIST:  
+	me222 	 Manufacturing Technology I 
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130107037 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107039 
+COURSE LIST:  
+	ee213 	  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107040 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130107041 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130107042 
+COURSE LIST:  
+	cs206 	  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130107043 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130107044 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130107045 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130107047 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130107049 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130107052 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130107053 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130107054 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130107056 
+COURSE LIST:  
+	cs206 	  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130107057 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+	bt202 	 Microbiology 
+*********************************************************
+Roll No. : 130107058 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130107060 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130107062 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130107063 
+COURSE LIST:  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130107064 
+COURSE LIST:  
+	ph282 	  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130107065 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	dd220 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130107066 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130107067 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130107068 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130107069 
+COURSE LIST:  
+	cl207 	 Chemical Engineering Thermodynamics II 
+	cl204 	 Heat Transfer Operations 
+	cl205 	 Mass Transfer Operations I 
+	cl206 	 Process Equipment Design I 
+	cl211 	 Thermodynamics Lab 
+	cl210 	 Fluid Mechanics Laboratory 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 134107002 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107003 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107004 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107005 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107006 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107008 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107009 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107011 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107012 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107013 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107014 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107015 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107016 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107017 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107018 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107019 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107020 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107022 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107024 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107025 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107026 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107027 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107028 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107029 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107030 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107031 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107034 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107037 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107043 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107044 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107046 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107052 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107056 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107059 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107060 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107061 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107064 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107068 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 134107072 
+COURSE LIST:  
+	cl699 	 Project 
+*********************************************************
+Roll No. : 140107001 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107002 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107003 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107004 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107005 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107006 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107007 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107009 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107010 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107011 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107012 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107013 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107014 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107015 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107016 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107017 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107018 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107019 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107020 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107021 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107022 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107023 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107024 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107025 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107026 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107027 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107028 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107029 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107030 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107031 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107032 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107033 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107034 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107035 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107036 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107037 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107038 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107039 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107040 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107041 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107042 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107043 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107044 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107045 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107046 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107047 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107048 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107049 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107050 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107051 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107052 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107053 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107054 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107055 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107056 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107057 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107058 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107059 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107060 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107061 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107063 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107064 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107065 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107067 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107068 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107069 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107070 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107071 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140107072 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 144107001 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107003 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl619 	 Refinery Process Design 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107004 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107005 
+COURSE LIST:  
+	cl599 	 Seminar 
+	cl614 	 Fluidization Engineering 
+	cl504 	 Reaction Engineering 
+	cl626 	 Energy Sources 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107006 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl619 	 Refinery Process Design 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107007 
+COURSE LIST:  
+	cl599 	 Seminar 
+	cl614 	 Fluidization Engineering 
+	cl504 	 Reaction Engineering 
+	cl623 	 Polymer Science and Technology 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107008 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107010 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107011 
+COURSE LIST:  
+	cl618 	 Natural Gas Engineering 
+	cl599 	 Seminar 
+	cl614 	 Fluidization Engineering 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107012 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107013 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107014 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107016 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107017 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl599 	 Seminar 
+	cl614 	 Fluidization Engineering 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107018 
+COURSE LIST:  
+	cl618 	 Natural Gas Engineering 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107019 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107020 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107021 
+COURSE LIST:  
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl599 	 Seminar 
+	cl614 	 Fluidization Engineering 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107022 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107023 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl628 	 Catalysts and Adsorbents 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107024 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl619 	 Refinery Process Design 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107025 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107026 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl628 	 Catalysts and Adsorbents 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107027 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107028 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107029 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl623 	 Polymer Science and Technology 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107030 
+COURSE LIST:  
+	cl619 	 Refinery Process Design 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107031 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl622 	 Molecular Simulations: Principles and Applications 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107032 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl599 	 Seminar 
+	cl622 	 Molecular Simulations: Principles and Applications 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107033 
+COURSE LIST:  
+	cl618 	 Natural Gas Engineering 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107034 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl628 	 Catalysts and Adsorbents 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107035 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl599 	 Seminar 
+	cl614 	 Fluidization Engineering 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107037 
+COURSE LIST:  
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl623 	 Polymer Science and Technology 
+	cl630 	 Composites Materials 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107038 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl630 	 Composites Materials 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107043 
+COURSE LIST:  
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl630 	 Composites Materials 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107044 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl628 	 Catalysts and Adsorbents 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107046 
+COURSE LIST:  
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl628 	 Catalysts and Adsorbents 
+	cl630 	 Composites Materials 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107047 
+COURSE LIST:  
+	cl599 	 Seminar 
+	cl614 	 Fluidization Engineering 
+	cl504 	 Reaction Engineering 
+	cl628 	 Catalysts and Adsorbents 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107051 
+COURSE LIST:  
+	cl599 	 Seminar 
+	cl614 	 Fluidization Engineering 
+	cl504 	 Reaction Engineering 
+	cl628 	 Catalysts and Adsorbents 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107052 
+COURSE LIST:  
+	cl599 	 Seminar 
+	cl612 	 Colloid and Interface Science 
+	cl614 	 Fluidization Engineering 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107053 
+COURSE LIST:  
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl628 	 Catalysts and Adsorbents 
+	cl630 	 Composites Materials 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107055 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl630 	 Composites Materials 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107056 
+COURSE LIST:  
+	cl599 	 Seminar 
+	cl614 	 Fluidization Engineering 
+	cl504 	 Reaction Engineering 
+	cl630 	 Composites Materials 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107058 
+COURSE LIST:  
+	cl599 	 Seminar 
+	cl614 	 Fluidization Engineering 
+	cl504 	 Reaction Engineering 
+	cl630 	 Composites Materials 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107059 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107062 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl613 	 Computational Fluid Dynamics 
+	cl599 	 Seminar 
+	cl622 	 Molecular Simulations: Principles and Applications 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107065 
+COURSE LIST:  
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl599 	 Seminar 
+	cl622 	 Molecular Simulations: Principles and Applications 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 144107070 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl599 	 Seminar 
+	cl504 	 Reaction Engineering 
+	cl503 	 Advanced Thermodynamics 
+*********************************************************
+Roll No. : 146107003 
+COURSE LIST:  
+	cl635 	 Advanced Clean Fuel Technologies 
+*********************************************************
+Roll No. : 146107008 
+COURSE LIST:  
+	me685 	 Evolutionary Computation 
+	cs561 	 Artificial Intelligence 
+	ma451 	 Parallel Computing 
+	ma691 	 Statistical Simulation and data Analysis 
+*********************************************************
+Roll No. : 146107009 
+COURSE LIST:  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl622 	 Molecular Simulations: Principles and Applications 
+*********************************************************
+Roll No. : 146107012 
+COURSE LIST:  
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl504 	 Reaction Engineering 
+*********************************************************
+Roll No. : 146107015 
+COURSE LIST:  
+	cl613 	 Computational Fluid Dynamics 
+	cl635 	 Advanced Clean Fuel Technologies 
+	cl504 	 Reaction Engineering 
+	cl626 	 Energy Sources 
+*********************************************************
+Roll No. : 146107019 
+COURSE LIST:  
+	bt609 	 Bioprocess Engineering 
+*********************************************************
+Roll No. : 146107021 
+COURSE LIST:  
+	ce664 	 Industrial Wastewater Pollution Control 
+	cl628 	 Catalysts and Adsorbents 

@@ -1,0 +1,4161 @@
+*********************************************************
+Roll No. : 11010301 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010302 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me679 	 Mechanical Behaviour of Materials 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010303 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010304 
+COURSE LIST:  
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010306 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me679 	 Mechanical Behaviour of Materials 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010307 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010308 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me522 	 Convective Heat & Mass Transfer 
+	me670 	 Advanced Computational Fluid Dynamics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010309 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me672 	 Welding Science and Technology 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010310 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me522 	 Convective Heat & Mass Transfer 
+	me671 	 Biomaterials: Design and Applications 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010311 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010312 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me672 	 Welding Science and Technology 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010313 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010314 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me691 	 Mechanics of Machining 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010315 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010316 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me670 	 Advanced Computational Fluid Dynamics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010317 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010318 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010319 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010321 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010322 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010323 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me670 	 Advanced Computational Fluid Dynamics 
+	me685 	 Evolutionary Computation 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010324 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010325 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010326 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010327 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010328 
+COURSE LIST:  
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010329 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010330 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me691 	 Mechanics of Machining 
+	me679 	 Mechanical Behaviour of Materials 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010331 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me522 	 Convective Heat & Mass Transfer 
+	me691 	 Mechanics of Machining 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010333 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010334 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010335 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me691 	 Mechanics of Machining 
+	me685 	 Evolutionary Computation 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010336 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010337 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010338 
+COURSE LIST:  
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010339 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010340 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010341 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010342 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010343 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010344 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010345 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me679 	 Mechanical Behaviour of Materials 
+	me671 	 Biomaterials: Design and Applications 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010346 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me691 	 Mechanics of Machining 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010347 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010348 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010349 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010350 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010351 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me615 	 Rotor Dynamics 
+	me685 	 Evolutionary Computation 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010352 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me613 	 Nonlinear Vibrations 
+	me607 	 Introduction to Composite Materials 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010353 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010354 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010355 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010356 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010357 
+COURSE LIST:  
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010358 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010359 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me672 	 Welding Science and Technology 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010360 
+COURSE LIST:  
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010361 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010362 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010363 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me670 	 Advanced Computational Fluid Dynamics 
+	me685 	 Evolutionary Computation 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010364 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010365 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me691 	 Mechanics of Machining 
+	me685 	 Evolutionary Computation 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010366 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010367 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me522 	 Convective Heat & Mass Transfer 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010369 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010370 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010371 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010372 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010373 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me613 	 Nonlinear Vibrations 
+	me607 	 Introduction to Composite Materials 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010374 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010375 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010376 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me679 	 Mechanical Behaviour of Materials 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010377 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010378 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me672 	 Welding Science and Technology 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010379 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me672 	 Welding Science and Technology 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010380 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me679 	 Mechanical Behaviour of Materials 
+	me686 	 Micro-manufacturing 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010381 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me532 	 Finite Element Methods in Engineering 
+	me679 	 Mechanical Behaviour of Materials 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010382 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010383 
+COURSE LIST:  
+	me421 	 Industrial Engineering and Operation Research 
+	me499 	 Project 
+	me672 	 Welding Science and Technology 
+	me670 	 Advanced Computational Fluid Dynamics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 120103001 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103002 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103003 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103004 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103007 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103008 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103009 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103010 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103011 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103012 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	ee322 	  
+*********************************************************
+Roll No. : 120103013 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103015 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	dd320 	  
+*********************************************************
+Roll No. : 120103016 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103017 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103018 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103019 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103021 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103022 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	dd320 	  
+*********************************************************
+Roll No. : 120103023 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103024 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103025 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	cs350 	  
+*********************************************************
+Roll No. : 120103027 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	ce352 	  
+*********************************************************
+Roll No. : 120103028 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103029 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103030 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103031 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	dd320 	  
+*********************************************************
+Roll No. : 120103032 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	dd320 	  
+*********************************************************
+Roll No. : 120103033 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103034 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	ee322 	  
+*********************************************************
+Roll No. : 120103037 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	dd320 	  
+*********************************************************
+Roll No. : 120103038 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103039 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103040 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	dd320 	  
+*********************************************************
+Roll No. : 120103041 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	dd320 	  
+*********************************************************
+Roll No. : 120103042 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103043 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103044 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103045 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103046 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103047 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103049 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103050 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103052 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103054 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103055 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103056 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103057 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103060 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103061 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103062 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103063 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103066 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103067 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103068 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	dd320 	  
+*********************************************************
+Roll No. : 120103069 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103070 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103071 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103072 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	dd320 	  
+*********************************************************
+Roll No. : 120103074 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	dd320 	  
+*********************************************************
+Roll No. : 120103075 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103076 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103077 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103078 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103080 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103082 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	cs350 	  
+*********************************************************
+Roll No. : 120103083 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	cs350 	  
+*********************************************************
+Roll No. : 120103084 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103085 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103086 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+	ee322 	  
+*********************************************************
+Roll No. : 120103087 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103088 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103089 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103090 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103091 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103092 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103093 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103094 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 120103095 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me325 	 Control Systems 
+	me326 	 Mechanical Lab III 
+	me321 	 Applied Thermodynamics 
+	me322 	 Machine Design 
+	me323 	 Mechanical Measurements 
+*********************************************************
+Roll No. : 130103001 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	ee213 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130103002 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103003 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103004 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103005 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103006 
+COURSE LIST:  
+	cs206 	  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130103007 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130103008 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103009 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103010 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103011 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130103012 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103013 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130103014 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130103015 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103016 
+COURSE LIST:  
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103017 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130103018 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	ph282 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130103019 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130103020 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103021 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103022 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130103023 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130103024 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103025 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	dd220 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130103026 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	ma212 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130103027 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	dd220 	  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130103028 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	dd220 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130103029 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130103030 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103031 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130103032 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	dd220 	  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130103033 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103034 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103035 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	dd220 	  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130103036 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	dd220 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130103037 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	dd220 	  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130103038 
+COURSE LIST:  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130103039 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130103040 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130103041 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	ma212 	  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130103042 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	dd220 	  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130103043 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103044 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103045 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103046 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	ph282 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130103047 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103048 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130103050 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	dd220 	  
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103051 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103052 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	ma212 	  
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103053 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130103055 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130103056 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130103057 
+COURSE LIST:  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130103058 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130103059 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130103060 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103061 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130103062 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103063 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103065 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103067 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130103068 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103069 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130103070 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103071 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	dd220 	  
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103072 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	ma212 	  
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103073 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103074 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130103075 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103076 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103077 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103078 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130103079 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103080 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130103081 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	cs206 	  
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130103082 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	cs206 	  
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103083 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	cs206 	  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130103084 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	cs206 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130103085 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103086 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	dd220 	  
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130103087 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130103088 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130103089 
+COURSE LIST:  
+	me224 	 Kinematics of Machinery 
+	me221 	 Fluid Mechanics I 
+	me223 	 Solid Mechanics II 
+	me225 	 Workshop II 
+	me222 	 Manufacturing Technology I 
+	me226 	 Mechanical Lab I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 134103001 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103004 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103008 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103011 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103012 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103013 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103014 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103015 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103018 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103020 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103022 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103023 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103024 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103025 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103026 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103027 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103028 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103030 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103031 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103032 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103033 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103034 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103036 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103038 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103039 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103040 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103041 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103043 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103044 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103045 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103047 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103048 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103049 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103050 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103051 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103052 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103053 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103054 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103057 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103058 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103059 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103062 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103063 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103064 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103067 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103069 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103070 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103071 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103072 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103073 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103075 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103079 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103080 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103082 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103083 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103084 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103086 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103087 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103088 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103089 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103090 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103091 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103092 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103093 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103097 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103101 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103102 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103103 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103104 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103116 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103121 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103123 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 134103125 
+COURSE LIST:  
+	me690 	 Project Phase II 
+*********************************************************
+Roll No. : 140103001 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103002 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103003 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103004 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103005 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103006 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103008 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103009 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103010 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103011 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103012 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103013 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103014 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103015 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103016 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103017 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103018 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103019 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103020 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103021 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103022 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103023 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103024 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103025 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103026 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103027 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103028 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103030 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103031 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103032 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103033 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103034 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103035 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103036 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103037 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103038 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103039 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103040 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103041 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103042 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103043 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103044 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103045 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103046 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103047 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103048 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103049 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103050 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103051 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103053 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103054 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103055 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103056 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103057 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103058 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103059 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103060 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103061 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103062 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103063 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103065 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103066 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103067 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103068 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103069 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103070 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103071 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103072 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103073 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103074 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103075 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103076 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103077 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103079 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103080 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140103081 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 144103001 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103003 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	me679 	 Mechanical Behaviour of Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103004 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me679 	 Mechanical Behaviour of Materials 
+*********************************************************
+Roll No. : 144103005 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103006 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me685 	 Evolutionary Computation 
+*********************************************************
+Roll No. : 144103007 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	me679 	 Mechanical Behaviour of Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103008 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me679 	 Mechanical Behaviour of Materials 
+*********************************************************
+Roll No. : 144103009 
+COURSE LIST:  
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+	me671 	 Biomaterials: Design and Applications 
+*********************************************************
+Roll No. : 144103010 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me613 	 Nonlinear Vibrations 
+	me607 	 Introduction to Composite Materials 
+	me685 	 Evolutionary Computation 
+*********************************************************
+Roll No. : 144103011 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103012 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me685 	 Evolutionary Computation 
+*********************************************************
+Roll No. : 144103013 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	me679 	 Mechanical Behaviour of Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103014 
+COURSE LIST:  
+	me532 	 Finite Element Methods in Engineering 
+	me613 	 Nonlinear Vibrations 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me664 	 Theory of Elasticity 
+	me685 	 Evolutionary Computation 
+*********************************************************
+Roll No. : 144103015 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	me679 	 Mechanical Behaviour of Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103017 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me613 	 Nonlinear Vibrations 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103019 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me679 	 Mechanical Behaviour of Materials 
+*********************************************************
+Roll No. : 144103020 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	me679 	 Mechanical Behaviour of Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103022 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me613 	 Nonlinear Vibrations 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+*********************************************************
+Roll No. : 144103025 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me664 	 Theory of Elasticity 
+	me685 	 Evolutionary Computation 
+*********************************************************
+Roll No. : 144103026 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me613 	 Nonlinear Vibrations 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+*********************************************************
+Roll No. : 144103027 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me679 	 Mechanical Behaviour of Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103029 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103030 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	me679 	 Mechanical Behaviour of Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103031 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	me679 	 Mechanical Behaviour of Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103034 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103036 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103038 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me664 	 Theory of Elasticity 
+	me685 	 Evolutionary Computation 
+*********************************************************
+Roll No. : 144103039 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103040 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103042 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103043 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103045 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103046 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103047 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103048 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+	me685 	 Evolutionary Computation 
+*********************************************************
+Roll No. : 144103049 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103050 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103051 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103052 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103053 
+COURSE LIST:  
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+	me685 	 Evolutionary Computation 
+*********************************************************
+Roll No. : 144103054 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103056 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103057 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103058 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103059 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103060 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103061 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103064 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103066 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103067 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103068 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me613 	 Nonlinear Vibrations 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+*********************************************************
+Roll No. : 144103069 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103072 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103073 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103074 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103075 
+COURSE LIST:  
+	me688 	 Advanced Machining Processes 
+	me514 	 Computer Integrated Manufacturing 
+	me513 	 Physics of Manufacturing Process 
+	me686 	 Micro-manufacturing 
+	me671 	 Biomaterials: Design and Applications 
+*********************************************************
+Roll No. : 144103076 
+COURSE LIST:  
+	me688 	 Advanced Machining Processes 
+	me514 	 Computer Integrated Manufacturing 
+	me513 	 Physics of Manufacturing Process 
+	me686 	 Micro-manufacturing 
+	me671 	 Biomaterials: Design and Applications 
+*********************************************************
+Roll No. : 144103077 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103078 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103080 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103082 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103083 
+COURSE LIST:  
+	me688 	 Advanced Machining Processes 
+	me514 	 Computer Integrated Manufacturing 
+	me672 	 Welding Science and Technology 
+	me513 	 Physics of Manufacturing Process 
+	me686 	 Micro-manufacturing 
+*********************************************************
+Roll No. : 144103085 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103086 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103087 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103088 
+COURSE LIST:  
+	me688 	 Advanced Machining Processes 
+	me514 	 Computer Integrated Manufacturing 
+	me513 	 Physics of Manufacturing Process 
+	me686 	 Micro-manufacturing 
+	me671 	 Biomaterials: Design and Applications 
+*********************************************************
+Roll No. : 144103089 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103090 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103093 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	me544 	 Computational Mechanics Lab 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103095 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me613 	 Nonlinear Vibrations 
+	me607 	 Introduction to Composite Materials 
+	me544 	 Computational Mechanics Lab 
+	me685 	 Evolutionary Computation 
+*********************************************************
+Roll No. : 144103097 
+COURSE LIST:  
+	me532 	 Finite Element Methods in Engineering 
+	me514 	 Computer Integrated Manufacturing 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me513 	 Physics of Manufacturing Process 
+	me686 	 Micro-manufacturing 
+*********************************************************
+Roll No. : 144103099 
+COURSE LIST:  
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me670 	 Advanced Computational Fluid Dynamics 
+	me685 	 Evolutionary Computation 
+*********************************************************
+Roll No. : 144103100 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me532 	 Finite Element Methods in Engineering 
+	me544 	 Computational Mechanics Lab 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103101 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103102 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103103 
+COURSE LIST:  
+	me688 	 Advanced Machining Processes 
+	me514 	 Computer Integrated Manufacturing 
+	me513 	 Physics of Manufacturing Process 
+	me686 	 Micro-manufacturing 
+	me671 	 Biomaterials: Design and Applications 
+*********************************************************
+Roll No. : 144103104 
+COURSE LIST:  
+	me688 	 Advanced Machining Processes 
+	me514 	 Computer Integrated Manufacturing 
+	me672 	 Welding Science and Technology 
+	me513 	 Physics of Manufacturing Process 
+	me686 	 Micro-manufacturing 
+*********************************************************
+Roll No. : 144103105 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103106 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103107 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me679 	 Mechanical Behaviour of Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103108 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103109 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me679 	 Mechanical Behaviour of Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103110 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me679 	 Mechanical Behaviour of Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 144103111 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+	me670 	 Advanced Computational Fluid Dynamics 
+*********************************************************
+Roll No. : 144103112 
+COURSE LIST:  
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+	me687 	 Heat Exchanger Design 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 144103113 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me613 	 Nonlinear Vibrations 
+	me605 	 Fracture, Fatigue and Failure Analysis 
+	me607 	 Introduction to Composite Materials 
+*********************************************************
+Roll No. : 144103116 
+COURSE LIST:  
+	me688 	 Advanced Machining Processes 
+	me514 	 Computer Integrated Manufacturing 
+	me672 	 Welding Science and Technology 
+	me513 	 Physics of Manufacturing Process 
+	me686 	 Micro-manufacturing 
+*********************************************************
+Roll No. : 144103118 
+COURSE LIST:  
+	me688 	 Advanced Machining Processes 
+	me514 	 Computer Integrated Manufacturing 
+	me672 	 Welding Science and Technology 
+	me513 	 Physics of Manufacturing Process 
+	me686 	 Micro-manufacturing 
+*********************************************************
+Roll No. : 144103123 
+COURSE LIST:  
+	me688 	 Advanced Machining Processes 
+	me514 	 Computer Integrated Manufacturing 
+	me672 	 Welding Science and Technology 
+	me513 	 Physics of Manufacturing Process 
+	me686 	 Micro-manufacturing 
+*********************************************************
+Roll No. : 144103135 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	me544 	 Computational Mechanics Lab 
+	me522 	 Convective Heat & Mass Transfer 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 146103002 
+COURSE LIST:  
+	me688 	 Advanced Machining Processes 
+	me672 	 Welding Science and Technology 
+	me691 	 Mechanics of Machining 
+*********************************************************
+Roll No. : 146103004 
+COURSE LIST:  
+	me532 	 Finite Element Methods in Engineering 
+	me685 	 Evolutionary Computation 
+*********************************************************
+Roll No. : 146103005 
+COURSE LIST:  
+	me607 	 Introduction to Composite Materials 
+	me679 	 Mechanical Behaviour of Materials 
+	me671 	 Biomaterials: Design and Applications 
+*********************************************************
+Roll No. : 146103006 
+COURSE LIST:  
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me522 	 Convective Heat & Mass Transfer 
+*********************************************************
+Roll No. : 146103015 
+COURSE LIST:  
+	me513 	 Physics of Manufacturing Process 
+	me522 	 Convective Heat & Mass Transfer 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 146103016 
+COURSE LIST:  
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 146103018 
+COURSE LIST:  
+	me615 	 Rotor Dynamics 
+	me532 	 Finite Element Methods in Engineering 
+*********************************************************
+Roll No. : 146103021 
+COURSE LIST:  
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+	me664 	 Theory of Elasticity 
+*********************************************************
+Roll No. : 146103022 
+COURSE LIST:  
+	me607 	 Introduction to Composite Materials 
+*********************************************************
+Roll No. : 146103025 
+COURSE LIST:  
+	me651 	 Numerical Methods for Thermal Radiation Heat Transfer 
+	me687 	 Heat Exchanger Design 
+*********************************************************
+Roll No. : 146103027 
+COURSE LIST:  
+	me522 	 Convective Heat & Mass Transfer 
+	me601 	 Gas Dynamics 
+*********************************************************
+Roll No. : 146103028 
+COURSE LIST:  
+	me532 	 Finite Element Methods in Engineering 
+	me607 	 Introduction to Composite Materials 
+*********************************************************
+Roll No. : 146103029 
+COURSE LIST:  
+	me601 	 Gas Dynamics 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 146103038 
+COURSE LIST:  
+	me647 	 Numerical Predictions of Industrial Fluid Flows 
+	me669 	 Thermal Hydraulics in Power Generation Technology 
+	me687 	 Heat Exchanger Design 
+*********************************************************
+Roll No. : X140103082 
+COURSE LIST:  
+	me499 	 Project 
+	me223 	 Solid Mechanics II 
+	me323 	 Mechanical Measurements 

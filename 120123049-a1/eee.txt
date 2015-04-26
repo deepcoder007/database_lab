@@ -1,0 +1,1669 @@
+*********************************************************
+Roll No. : 11010801 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee630 	 Photonic Integrated Circuits 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010802 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee630 	 Photonic Integrated Circuits 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010803 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee625 	 Computer Vision 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010804 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010805 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee630 	 Photonic Integrated Circuits 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010806 
+COURSE LIST:  
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs403 	 Entrepreneurship & Economic Development 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11010807 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010808 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee630 	 Photonic Integrated Circuits 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010809 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010810 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010811 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee630 	 Photonic Integrated Circuits 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010812 
+COURSE LIST:  
+	ee653 	 Nonlinear Systems and Control 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010814 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010816 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010818 
+COURSE LIST:  
+	ee626 	 Biomedical Signal Processing 
+	ee653 	 Nonlinear Systems and Control 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010819 
+COURSE LIST:  
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010820 
+COURSE LIST:  
+	cs350 	  
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11010821 
+COURSE LIST:  
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010822 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010823 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010824 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010825 
+COURSE LIST:  
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ph446 	 Fundamentals of Astrophysics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010826 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee630 	 Photonic Integrated Circuits 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010827 
+COURSE LIST:  
+	ee629 	 Insulation and High Voltage Engineering 
+	ee640 	 Modeling and Control of Power Electronic Converters 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee625 	 Computer Vision 
+	ee499 	 Project II 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010828 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee630 	 Photonic Integrated Circuits 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010829 
+COURSE LIST:  
+	ee653 	 Nonlinear Systems and Control 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010830 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010831 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010832 
+COURSE LIST:  
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010834 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010835 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010836 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010837 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010838 
+COURSE LIST:  
+	ee673 	 Synchrophasor Technology 
+	ee626 	 Biomedical Signal Processing 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010839 
+COURSE LIST:  
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010840 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010841 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010842 
+COURSE LIST:  
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ph446 	 Fundamentals of Astrophysics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010843 
+COURSE LIST:  
+	ee626 	 Biomedical Signal Processing 
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee625 	 Computer Vision 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010844 
+COURSE LIST:  
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010845 
+COURSE LIST:  
+	ee653 	 Nonlinear Systems and Control 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010846 
+COURSE LIST:  
+	ee626 	 Biomedical Signal Processing 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010847 
+COURSE LIST:  
+	ee626 	 Biomedical Signal Processing 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010848 
+COURSE LIST:  
+	ee626 	 Biomedical Signal Processing 
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee625 	 Computer Vision 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 120108001 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108003 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108004 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108005 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108006 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108007 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108009 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108011 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108013 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108014 
+COURSE LIST:  
+	cs350 	  
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+	ph445 	 Optical Communication Systems 
+*********************************************************
+Roll No. : 120108019 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108020 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108021 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108023 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108026 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108027 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108028 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108029 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108030 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108031 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108032 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108034 
+COURSE LIST:  
+	cs350 	  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108035 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+	dd320 	  
+*********************************************************
+Roll No. : 120108036 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108037 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108038 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108039 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108041 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108043 
+COURSE LIST:  
+	cs350 	  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108044 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108045 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108046 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108047 
+COURSE LIST:  
+	cs350 	  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108048 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108049 
+COURSE LIST:  
+	cs350 	  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108050 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee304 	 Design Laboratory 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 120108051 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee385 	 Power Electronics and Drives 
+	ee351 	 Advanced Control Systems 
+	ee371 	 Control and Instrumentation Lab 
+	ee360 	 Embedded Systems 
+	ee340 	 Electromagnetic Theory 
+*********************************************************
+Roll No. : 130108001 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	dd220 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130108002 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	dd220 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130108003 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130108004 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130108005 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130108006 
+COURSE LIST:  
+	ma212 	  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130108008 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130108009 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130108010 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130108012 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	dd220 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130108013 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130108014 
+COURSE LIST:  
+	cs206 	  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130108015 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130108016 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	dd220 	  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130108018 
+COURSE LIST:  
+	ma212 	  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130108019 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130108020 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	ph282 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130108021 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130108022 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	dd220 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130108023 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130108024 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	dd220 	  
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130108025 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130108026 
+COURSE LIST:  
+	cs206 	  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130108027 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130108028 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130108029 
+COURSE LIST:  
+	cs206 	  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130108030 
+COURSE LIST:  
+	cs206 	  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130108031 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130108032 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130108033 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130108034 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	dd220 	  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130108035 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130108036 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130108037 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130108038 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130108039 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130108040 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130108041 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130108042 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130108043 
+COURSE LIST:  
+	cs206 	  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130108044 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs226 	 Macroeconomics 
+	bt202 	 Microbiology 
+*********************************************************
+Roll No. : 130108045 
+COURSE LIST:  
+	cs206 	  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130108046 
+COURSE LIST:  
+	cs206 	  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130108047 
+COURSE LIST:  
+	cs206 	  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130108048 
+COURSE LIST:  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130108049 
+COURSE LIST:  
+	cs206 	  
+	ee270 	 Measurement and Instrumentation 
+	ee230 	 Principles of Communication 
+	ee204 	 Analog Circuits Laboratory 
+	ee203 	 Analog Integrated Circuits 
+	ee221 	 Probability and Random Processes 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 140108001 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108002 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108003 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108004 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108005 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108006 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108007 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108008 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108009 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108010 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108011 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108012 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108013 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108014 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108015 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108016 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108017 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108018 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108019 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108020 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108021 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108022 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108023 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108024 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108025 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108026 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108027 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108028 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108029 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108030 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108031 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108032 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108033 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108034 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108035 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108036 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108037 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108038 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108039 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108041 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140108042 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : X140108043 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	me221 	 Fluid Mechanics I 
+	me222 	 Manufacturing Technology I 
+	ee270 	 Measurement and Instrumentation 
+	ee499 	 Project II 
+*********************************************************
+Roll No. : X140108044 
+COURSE LIST:  
+	ee203 	 Analog Integrated Circuits 
+	ee652 	 Digital Control 
+	ph445 	 Optical Communication Systems 
+	hs403 	 Entrepreneurship & Economic Development 

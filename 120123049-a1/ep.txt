@@ -1,0 +1,2137 @@
+*********************************************************
+Roll No. : 11010210 
+COURSE LIST:  
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010211 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010212 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010213 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010214 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010216 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010217 
+COURSE LIST:  
+	ee626 	 Biomedical Signal Processing 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee647 	 Radio Frequency Integrated Circuits 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee499 	 Project II 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010218 
+COURSE LIST:  
+	ee643 	 Network Coding and Applications 
+	ee562 	 Fundamentals of VLSI CAD 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010219 
+COURSE LIST:  
+	ee643 	 Network Coding and Applications 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ph446 	 Fundamentals of Astrophysics 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012101 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph543 	 Quantum Field Theory 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012102 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012103 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph543 	 Quantum Field Theory 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012105 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph543 	 Quantum Field Theory 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012106 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph544 	 High Energy Physics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012107 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph544 	 High Energy Physics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012109 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph543 	 Quantum Field Theory 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012111 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph543 	 Quantum Field Theory 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012112 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph544 	 High Energy Physics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012114 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph543 	 Quantum Field Theory 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012116 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph446 	 Fundamentals of Astrophysics 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012117 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph446 	 Fundamentals of Astrophysics 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012118 
+COURSE LIST:  
+	ee653 	 Nonlinear Systems and Control 
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph544 	 High Energy Physics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012119 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph543 	 Quantum Field Theory 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11012120 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph446 	 Fundamentals of Astrophysics 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012122 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph543 	 Quantum Field Theory 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012123 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph544 	 High Energy Physics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012124 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012127 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph543 	 Quantum Field Theory 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012128 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012129 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph446 	 Fundamentals of Astrophysics 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012130 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph446 	 Fundamentals of Astrophysics 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012132 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph543 	 Quantum Field Theory 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012133 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012134 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph543 	 Quantum Field Theory 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012135 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph543 	 Quantum Field Theory 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012136 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph446 	 Fundamentals of Astrophysics 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11012137 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012138 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012139 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph543 	 Quantum Field Theory 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012140 
+COURSE LIST:  
+	ph414 	 Nanoelectronics and Nanophotonics 
+	ph499 	 Project I 
+	ph536 	 Quantum Optics 
+	ph446 	 Fundamentals of Astrophysics 
+	ph543 	 Quantum Field Theory 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012211 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012212 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch418 	 Biological Chemistry of Metal Ions 
+	hs410 	 History of Contemporary India 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11012213 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012216 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012217 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012219 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	hs422 	 Subaltern Voices and Narratives 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 120121001 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121002 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121004 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121005 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121006 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121007 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee322 	  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121008 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120121009 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121011 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121013 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	dd320 	  
+*********************************************************
+Roll No. : 120121016 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121017 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121020 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121021 
+COURSE LIST:  
+	ma312 	  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121022 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121023 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121026 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121027 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121028 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee322 	  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121029 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121031 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121033 
+COURSE LIST:  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121034 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121036 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121037 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121038 
+COURSE LIST:  
+	me321 	 Applied Thermodynamics 
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121039 
+COURSE LIST:  
+	ma312 	  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph445 	 Optical Communication Systems 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121040 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121043 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 120121044 
+COURSE LIST:  
+	ee657 	 Pattern Recognition and Machine Learning 
+	ee322 	  
+	ph306 	 Nuclear Science and Engineering 
+	ph302 	 Solid State Physics 
+	ph320 	 General Physics Lab 
+	ph304 	 Engineering Optics 
+	ph308 	 Measurement Techniques 
+*********************************************************
+Roll No. : 130121001 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs237 	 Introduction to Archeology 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121002 
+COURSE LIST:  
+	ma212 	  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs226 	 Macroeconomics 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121003 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121005 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121006 
+COURSE LIST:  
+	ma212 	  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs223 	 Language and Society 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121007 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121008 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121009 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs234 	 Introduction to Linguistics 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121010 
+COURSE LIST:  
+	ma212 	  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs234 	 Introduction to Linguistics 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121011 
+COURSE LIST:  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130121012 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs234 	 Introduction to Linguistics 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121013 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs234 	 Introduction to Linguistics 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121014 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130121015 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs237 	 Introduction to Archeology 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121016 
+COURSE LIST:  
+	ma212 	  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs203 	 Problems of Philosophy 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121017 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs226 	 Macroeconomics 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121018 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs237 	 Introduction to Archeology 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121019 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121020 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs237 	 Introduction to Archeology 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121022 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs237 	 Introduction to Archeology 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121023 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs223 	 Language and Society 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121026 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs203 	 Problems of Philosophy 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121027 
+COURSE LIST:  
+	ma212 	  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs226 	 Macroeconomics 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121028 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs237 	 Introduction to Archeology 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121030 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs234 	 Introduction to Linguistics 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121031 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs234 	 Introduction to Linguistics 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121032 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs203 	 Problems of Philosophy 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121033 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs223 	 Language and Society 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121034 
+COURSE LIST:  
+	ma212 	  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs203 	 Problems of Philosophy 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121035 
+COURSE LIST:  
+	ma212 	  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121036 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs203 	 Problems of Philosophy 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121037 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130121039 
+COURSE LIST:  
+	ma212 	  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121040 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs203 	 Problems of Philosophy 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121041 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130121042 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs203 	 Problems of Philosophy 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121044 
+COURSE LIST:  
+	ma212 	  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs237 	 Introduction to Archeology 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121045 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs213 	 Consumer Behaviour 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 130121046 
+COURSE LIST:  
+	ph204 	 Quantum Mechanics 
+	ph202 	 Electromagnetics 
+	ph206 	 Analog and Digital Electronics 
+	ph210 	 Electronic Lab I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+	bt205 	 Biophysics 
+*********************************************************
+Roll No. : 132121001 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph536 	 Quantum Optics 
+	ph523 	 Magnetism and Superconductivity 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121002 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121005 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121006 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph536 	 Quantum Optics 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121007 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph536 	 Quantum Optics 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121008 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph523 	 Magnetism and Superconductivity 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121009 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph536 	 Quantum Optics 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121010 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121011 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph523 	 Magnetism and Superconductivity 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121012 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph536 	 Quantum Optics 
+*********************************************************
+Roll No. : 132121013 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121014 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121015 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph536 	 Quantum Optics 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121017 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph536 	 Quantum Optics 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121018 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph536 	 Quantum Optics 
+	ph523 	 Magnetism and Superconductivity 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121019 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121020 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121021 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph536 	 Quantum Optics 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121022 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph536 	 Quantum Optics 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121023 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121024 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121026 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121027 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121028 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121029 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph536 	 Quantum Optics 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121031 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121032 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121033 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121034 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121036 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121037 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121038 
+COURSE LIST:  
+	ph524 	 Thin Film Phenomena 
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 132121040 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph527 	 Nanostructured Materials 
+	ph536 	 Quantum Optics 
+	ph523 	 Magnetism and Superconductivity 
+*********************************************************
+Roll No. : 132121042 
+COURSE LIST:  
+	ph516 	 Advanced Physics Laboaratory 
+	ph518 	 Project 
+	ph536 	 Quantum Optics 
+	ph544 	 High Energy Physics 
+	ph543 	 Quantum Field Theory 
+*********************************************************
+Roll No. : 140121001 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121002 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121003 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121004 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121006 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121007 
+COURSE LIST:  
+	ma102 	 Mathematics II 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+*********************************************************
+Roll No. : 140121008 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121009 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121010 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121011 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121013 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121014 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121015 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121016 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121017 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121018 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121019 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121020 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121021 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121022 
+COURSE LIST:  
+	ma102 	 Mathematics II 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+*********************************************************
+Roll No. : 140121023 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121024 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121026 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121027 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121028 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121029 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121030 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121031 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121032 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121033 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121034 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121035 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121036 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121037 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121038 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121039 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121040 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121042 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121043 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140121044 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 142121001 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121003 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121004 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121005 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121006 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121007 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121008 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121009 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121010 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121011 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121012 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121013 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121014 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121015 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121016 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121017 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121018 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121019 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121020 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121021 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121022 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121023 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121024 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121025 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121026 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121027 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121028 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121029 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121030 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121031 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121032 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121033 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121034 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121035 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121036 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121037 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121038 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121039 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121040 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121041 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121042 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121043 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121044 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121045 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121047 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 142121048 
+COURSE LIST:  
+	ph402 	 Mathematical Physics II 
+	ph406 	 Quantum Mechanics II 
+	ph410 	 Electrodynamics I 
+	ph412 	 General Physics Laboratory I 
+	ph404 	 Statistical Mechanics 
+	ph408 	 Numerical Methods & Computational Physics 
+*********************************************************
+Roll No. : 146121030 
+COURSE LIST:  
+	ph706 	 Experimental and Numerical Techniques 
+	ph702 	 Electrodynamics 
+	ph703 	 Quantum Mechanics 
+	ph704 	 Statistical Mechanics 

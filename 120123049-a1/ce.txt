@@ -1,0 +1,3852 @@
+*********************************************************
+Roll No. : 11010403 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce610 	 Computational Structural Mechanics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010404 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010405 
+COURSE LIST:  
+	me664 	 Theory of Elasticity 
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce607 	 Random Vibration 
+	ce402 	 Design Project 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010406 
+COURSE LIST:  
+	me664 	 Theory of Elasticity 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010407 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce661 	 Air Quality Modeling 
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce402 	 Design Project 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010408 
+COURSE LIST:  
+	me664 	 Theory of Elasticity 
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010409 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010411 
+COURSE LIST:  
+	me664 	 Theory of Elasticity 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce610 	 Computational Structural Mechanics 
+	ce606 	 Earthquake Engineering 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010412 
+COURSE LIST:  
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010413 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce661 	 Air Quality Modeling 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce649 	 Ground Improvement Techniques 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010414 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs423 	 Masculinities in Literature and Popular Culture 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11010415 
+COURSE LIST:  
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce560 	 Computational Methods in Hydraulics & Environmental Engg. 
+	ce402 	 Design Project 
+	ee562 	 Fundamentals of VLSI CAD 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010416 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs406 	 Philosophical Issues 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11010417 
+COURSE LIST:  
+	me664 	 Theory of Elasticity 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010418 
+COURSE LIST:  
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce607 	 Random Vibration 
+	ce402 	 Design Project 
+	ph446 	 Fundamentals of Astrophysics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010419 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010420 
+COURSE LIST:  
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010421 
+COURSE LIST:  
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce607 	 Random Vibration 
+	ce402 	 Design Project 
+	ee562 	 Fundamentals of VLSI CAD 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010422 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010423 
+COURSE LIST:  
+	ce498 	 Project I 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce560 	 Computational Methods in Hydraulics & Environmental Engg. 
+	ce402 	 Design Project 
+	cl613 	 Computational Fluid Dynamics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010424 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010425 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010426 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010427 
+COURSE LIST:  
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010429 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce607 	 Random Vibration 
+	ce402 	 Design Project 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010430 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010431 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce402 	 Design Project 
+	ph446 	 Fundamentals of Astrophysics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010432 
+COURSE LIST:  
+	me664 	 Theory of Elasticity 
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce402 	 Design Project 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010433 
+COURSE LIST:  
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce402 	 Design Project 
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010434 
+COURSE LIST:  
+	ce498 	 Project I 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce560 	 Computational Methods in Hydraulics & Environmental Engg. 
+	ce402 	 Design Project 
+	ph446 	 Fundamentals of Astrophysics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010435 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010436 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010437 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010438 
+COURSE LIST:  
+	me664 	 Theory of Elasticity 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce607 	 Random Vibration 
+	ce402 	 Design Project 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010439 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce661 	 Air Quality Modeling 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010440 
+COURSE LIST:  
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	ee562 	 Fundamentals of VLSI CAD 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010441 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010442 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010443 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010444 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010446 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce649 	 Ground Improvement Techniques 
+	ce606 	 Earthquake Engineering 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010448 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010449 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010450 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce610 	 Computational Structural Mechanics 
+	ce606 	 Earthquake Engineering 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010452 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010453 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce607 	 Random Vibration 
+	ce402 	 Design Project 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010455 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce649 	 Ground Improvement Techniques 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010456 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010457 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	ce649 	 Ground Improvement Techniques 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010461 
+COURSE LIST:  
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11010462 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010463 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce607 	 Random Vibration 
+	ce402 	 Design Project 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010464 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010465 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce402 	 Design Project 
+	ee562 	 Fundamentals of VLSI CAD 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010466 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010468 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010469 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	ph446 	 Fundamentals of Astrophysics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010470 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs420 	 Writing Systems of the World 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11010471 
+COURSE LIST:  
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	cl613 	 Computational Fluid Dynamics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010472 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce498 	 Project I 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce402 	 Design Project 
+	ce606 	 Earthquake Engineering 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010473 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce498 	 Project I 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce402 	 Design Project 
+	hs403 	 Entrepreneurship & Economic Development 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11010474 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce498 	 Project I 
+	ce402 	 Design Project 
+	ce610 	 Computational Structural Mechanics 
+	ce606 	 Earthquake Engineering 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11010475 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 120104001 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104002 
+COURSE LIST:  
+	me321 	 Applied Thermodynamics 
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104003 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104004 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+	ma312 	  
+*********************************************************
+Roll No. : 120104005 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104006 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104007 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104008 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104009 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104010 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104011 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104013 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+	dd320 	  
+*********************************************************
+Roll No. : 120104014 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104015 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104016 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104017 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104018 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+	ee322 	  
+*********************************************************
+Roll No. : 120104020 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104022 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104023 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+	dd320 	  
+*********************************************************
+Roll No. : 120104024 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+	ma312 	  
+*********************************************************
+Roll No. : 120104025 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104027 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104028 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104029 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+	dd320 	  
+*********************************************************
+Roll No. : 120104030 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+	dd320 	  
+*********************************************************
+Roll No. : 120104031 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104032 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104033 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+	dd320 	  
+*********************************************************
+Roll No. : 120104034 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104035 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+	dd320 	  
+*********************************************************
+Roll No. : 120104036 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104037 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104039 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104040 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104041 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104042 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+	dd320 	  
+*********************************************************
+Roll No. : 120104043 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104044 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+	dd320 	  
+*********************************************************
+Roll No. : 120104045 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104049 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104050 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104051 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104054 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104055 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104056 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104057 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104059 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104060 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104061 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104062 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104063 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104064 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104065 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104066 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104067 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104070 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104072 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104074 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104075 
+COURSE LIST:  
+	cs350 	  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104076 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104077 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104078 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104079 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 120104080 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce311 	 Hydrology & Water Resources Engg 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce307 	 Environmental Engg. I 
+	ce315 	 Environmental Engineering I Lab 
+	ce308 	 Construction Technology and Management 
+*********************************************************
+Roll No. : 124104096 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 130104003 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130104004 
+COURSE LIST:  
+	me222 	 Manufacturing Technology I 
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130104005 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130104006 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130104007 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+*********************************************************
+Roll No. : 130104008 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130104009 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104010 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130104011 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130104012 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130104013 
+COURSE LIST:  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130104014 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130104015 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130104016 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130104017 
+COURSE LIST:  
+	me222 	 Manufacturing Technology I 
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130104018 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130104019 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104020 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130104021 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130104022 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104025 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130104026 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130104027 
+COURSE LIST:  
+	me222 	 Manufacturing Technology I 
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104028 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130104029 
+COURSE LIST:  
+	me222 	 Manufacturing Technology I 
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130104030 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104031 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130104032 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130104034 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130104035 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130104036 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130104038 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	ma212 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130104039 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130104040 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130104041 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104042 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104043 
+COURSE LIST:  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130104044 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130104045 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130104046 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	dd220 	  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130104047 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	dd220 	  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130104048 
+COURSE LIST:  
+	me222 	 Manufacturing Technology I 
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130104049 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130104050 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130104052 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104053 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130104054 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130104056 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	dd220 	  
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130104057 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130104058 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130104059 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130104060 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130104061 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130104062 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104063 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104064 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130104065 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130104066 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130104067 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130104068 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	dd220 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130104069 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130104070 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130104071 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	dd220 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130104072 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	dd220 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130104073 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	ma212 	  
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130104075 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130104076 
+COURSE LIST:  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104077 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130104078 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130104079 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130104080 
+COURSE LIST:  
+	ce201 	 Surveying 
+	ce215 	 Geotechnical Engineering Lab 
+	ce203 	 Fluid Mechanics 
+	ce214 	 Fluid Mechanics Lab 
+	ce206 	 Geotechnical Engg. 
+	ce213 	 Surveying Lab 
+	ce205 	 Structural Analysis I 
+	dd220 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 134104003 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104006 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104007 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104008 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104009 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104010 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104012 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104013 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104014 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104016 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104018 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104019 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104020 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104021 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104023 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104025 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104026 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104030 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104031 
+COURSE LIST:  
+	ce693 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104033 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104037 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104038 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104039 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104040 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104041 
+COURSE LIST:  
+	ce693 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104042 
+COURSE LIST:  
+	ce693 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104043 
+COURSE LIST:  
+	ce693 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104044 
+COURSE LIST:  
+	ce693 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104045 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104046 
+COURSE LIST:  
+	ce699 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104047 
+COURSE LIST:  
+	ce693 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104049 
+COURSE LIST:  
+	ce693 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104051 
+COURSE LIST:  
+	ce693 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104053 
+COURSE LIST:  
+	ce693 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104054 
+COURSE LIST:  
+	ce693 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104056 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104058 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104059 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104060 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104061 
+COURSE LIST:  
+	ce693 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104062 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104063 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104064 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104065 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104066 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104067 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104068 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104069 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104070 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104071 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104072 
+COURSE LIST:  
+	ce697 	 Project and Dissertation 
+*********************************************************
+Roll No. : 134104075 
+COURSE LIST:  
+	ce695 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104079 
+COURSE LIST:  
+	ce695 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104080 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104081 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104082 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104083 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104084 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104085 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104086 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104087 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104088 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104089 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104090 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104091 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104092 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104093 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104094 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104095 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104096 
+COURSE LIST:  
+	ce691 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104100 
+COURSE LIST:  
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+*********************************************************
+Roll No. : 134104101 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104105 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104106 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 134104107 
+COURSE LIST:  
+	ce550 	 Project and Thesis Phase II 
+*********************************************************
+Roll No. : 140104002 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104003 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104004 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104005 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104006 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104007 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104008 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104009 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104010 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104011 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104012 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104013 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104014 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104015 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104016 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104017 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104018 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104020 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104021 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104022 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104023 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104024 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104025 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104026 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104027 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104028 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104029 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104030 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104031 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104032 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104033 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104034 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104035 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104036 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104037 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104038 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104039 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104040 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104041 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104042 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104043 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104044 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104045 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104047 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104048 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104049 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104050 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104051 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104052 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104053 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104054 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104055 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104056 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104057 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104058 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104059 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104060 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104061 
+COURSE LIST:  
+	ma102 	 Mathematics II 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+*********************************************************
+Roll No. : 140104062 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104063 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104064 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104065 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104066 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104067 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104068 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104069 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104070 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104071 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104072 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104073 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104074 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104076 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104077 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104078 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104079 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140104080 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph110 	 Physics Lab. 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 144104001 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+*********************************************************
+Roll No. : 144104002 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+*********************************************************
+Roll No. : 144104004 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce607 	 Random Vibration 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104005 
+COURSE LIST:  
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104007 
+COURSE LIST:  
+	ce607 	 Random Vibration 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104008 
+COURSE LIST:  
+	ce607 	 Random Vibration 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104009 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce607 	 Random Vibration 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104010 
+COURSE LIST:  
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104011 
+COURSE LIST:  
+	ce607 	 Random Vibration 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104012 
+COURSE LIST:  
+	ce607 	 Random Vibration 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104013 
+COURSE LIST:  
+	ce607 	 Random Vibration 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104014 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104015 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104016 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104017 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104018 
+COURSE LIST:  
+	ce607 	 Random Vibration 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104019 
+COURSE LIST:  
+	ce607 	 Random Vibration 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104020 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104022 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104025 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce534 	 Seminar 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce646 	 Rock Mechanics 
+	ce645 	 Soil-Structure Interaction 
+*********************************************************
+Roll No. : 144104026 
+COURSE LIST:  
+	ce607 	 Random Vibration 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104030 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104031 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104033 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce583 	 Pavement Analysis and Design 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104035 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce646 	 Rock Mechanics 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104036 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce646 	 Rock Mechanics 
+	ce645 	 Soil-Structure Interaction 
+*********************************************************
+Roll No. : 144104037 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104038 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce646 	 Rock Mechanics 
+	ce645 	 Soil-Structure Interaction 
+*********************************************************
+Roll No. : 144104039 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104041 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce583 	 Pavement Analysis and Design 
+*********************************************************
+Roll No. : 144104043 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce583 	 Pavement Analysis and Design 
+*********************************************************
+Roll No. : 144104044 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce583 	 Pavement Analysis and Design 
+*********************************************************
+Roll No. : 144104045 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce583 	 Pavement Analysis and Design 
+*********************************************************
+Roll No. : 144104046 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce646 	 Rock Mechanics 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104047 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104048 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce583 	 Pavement Analysis and Design 
+*********************************************************
+Roll No. : 144104049 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce583 	 Pavement Analysis and Design 
+*********************************************************
+Roll No. : 144104051 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce583 	 Pavement Analysis and Design 
+*********************************************************
+Roll No. : 144104053 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce583 	 Pavement Analysis and Design 
+*********************************************************
+Roll No. : 144104054 
+COURSE LIST:  
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce583 	 Pavement Analysis and Design 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104055 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce583 	 Pavement Analysis and Design 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104056 
+COURSE LIST:  
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce560 	 Computational Methods in Hydraulics & Environmental Engg. 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104057 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104058 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104059 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104060 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104061 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104062 
+COURSE LIST:  
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce560 	 Computational Methods in Hydraulics & Environmental Engg. 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104063 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104064 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104065 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104067 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104068 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104069 
+COURSE LIST:  
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce560 	 Computational Methods in Hydraulics & Environmental Engg. 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104070 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104071 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104072 
+COURSE LIST:  
+	ce559 	 Watershed Management & Remote Sensing Application 
+	ce570 	 River Engineering 
+	ce556 	 Subsurface Hydrology 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce555 	 Principles of Water Quality & EIA 
+*********************************************************
+Roll No. : 144104075 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce510 	 Quality And Safety Management In Construction 
+	ce544 	 Project Management Laboratory 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce614 	 Financing Infrastructure Projects 
+*********************************************************
+Roll No. : 144104076 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce583 	 Pavement Analysis and Design 
+*********************************************************
+Roll No. : 144104077 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+	ce585 	 Credit Seminar 
+	ce628 	 Traffic Flow Modelling and Simulation 
+	ce583 	 Pavement Analysis and Design 
+*********************************************************
+Roll No. : 144104078 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce510 	 Quality And Safety Management In Construction 
+	ce544 	 Project Management Laboratory 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce614 	 Financing Infrastructure Projects 
+*********************************************************
+Roll No. : 144104080 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104081 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104082 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104083 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104084 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104085 
+COURSE LIST:  
+	ce664 	 Industrial Wastewater Pollution Control 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104087 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104088 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104090 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104091 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104093 
+COURSE LIST:  
+	ce664 	 Industrial Wastewater Pollution Control 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104094 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104095 
+COURSE LIST:  
+	ce664 	 Industrial Wastewater Pollution Control 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104098 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104099 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+*********************************************************
+Roll No. : 144104100 
+COURSE LIST:  
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104101 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104102 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce610 	 Computational Structural Mechanics 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104104 
+COURSE LIST:  
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce612 	 Advanced Concrete Technology 
+	ce504 	 Advanced Structural Design 
+	ce505 	 Analysis And Design Of Bridges 
+	ce606 	 Earthquake Engineering 
+*********************************************************
+Roll No. : 144104105 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104107 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce643 	 Earthquake Geotechnical Engg. 
+	ce534 	 Seminar 
+	ce645 	 Soil-Structure Interaction 
+	ce649 	 Ground Improvement Techniques 
+*********************************************************
+Roll No. : 144104108 
+COURSE LIST:  
+	ce533 	 Advanced Foundation Engg. 
+	ce534 	 Seminar 
+	ce618 	 Mechanics of Unsaturated Soils 
+	ce646 	 Rock Mechanics 
+	ce645 	 Soil-Structure Interaction 
+*********************************************************
+Roll No. : 144104111 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+	ce510 	 Quality And Safety Management In Construction 
+	ce544 	 Project Management Laboratory 
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+	ce614 	 Financing Infrastructure Projects 
+*********************************************************
+Roll No. : 144104115 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 144104116 
+COURSE LIST:  
+	ce661 	 Air Quality Modeling 
+	ce665 	 Water Distribution and Wastewater Collection System Design 
+	ce525 	 Solid and Hazardous Waste Management 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : 146104007 
+COURSE LIST:  
+	ce612 	 Advanced Concrete Technology 
+*********************************************************
+Roll No. : 146104010 
+COURSE LIST:  
+	ce623 	 Pavement Evaluation, Rehabilitation and Maintenance 
+	ce584 	 Traffic Engineering 
+*********************************************************
+Roll No. : 146104016 
+COURSE LIST:  
+	ce552 	 Water Resources Systems Analysis,Planning & Management 
+*********************************************************
+Roll No. : 146104036 
+COURSE LIST:  
+	ce616 	 Blast and Impact Resistant Structures 
+	ce613 	 Engineering Fracture and Fatigue Mechanics 
+	ce612 	 Advanced Concrete Technology 
+	ce607 	 Random Vibration 
+	ce610 	 Computational Structural Mechanics 
+*********************************************************
+Roll No. : 146104040 
+COURSE LIST:  
+	ce664 	 Industrial Wastewater Pollution Control 
+	ce524 	 Biological Processes in Environmental Engg 
+*********************************************************
+Roll No. : X140104081 
+COURSE LIST:  
+	ce314 	 Transportation Engineering I Lab 
+	ce215 	 Geotechnical Engineering Lab 
+	ce304 	 Transportation Engg. I 
+	ce309 	 Design of Steel Structure 
+	ce206 	 Geotechnical Engg. 

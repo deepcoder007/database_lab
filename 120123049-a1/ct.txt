@@ -1,0 +1,2219 @@
+*********************************************************
+Roll No. : 11010220 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11010221 
+COURSE LIST:  
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee625 	 Computer Vision 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11010222 
+COURSE LIST:  
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010223 
+COURSE LIST:  
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010224 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ec499 	 Project 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee660 	 Biometrics 
+	ee661 	 Selected Topics in Information Theory 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010226 
+COURSE LIST:  
+	ee626 	 Biomedical Signal Processing 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	ph446 	 Fundamentals of Astrophysics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11010227 
+COURSE LIST:  
+	ee562 	 Fundamentals of VLSI CAD 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11010228 
+COURSE LIST:  
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee625 	 Computer Vision 
+	ee628 	 Speech Technology 
+	ee499 	 Project II 
+	ee660 	 Biometrics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11010229 
+COURSE LIST:  
+	ee626 	 Biomedical Signal Processing 
+	ee647 	 Radio Frequency Integrated Circuits 
+	ee639 	 Sparse Representation & Compressive Sensing: Theory & Applications 
+	ee641 	 Modeling & Simulation of Advanced Nanoscale Devices 
+	ee499 	 Project II 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012201 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	hs422 	 Subaltern Voices and Narratives 
+	hs403 	 Entrepreneurship & Economic Development 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11012202 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ch637 	 Advanced Quantum Chemistry 
+	cl613 	 Computational Fluid Dynamics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012203 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11012204 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	hs409 	 Environmental Economics 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11012205 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11012206 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012207 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012208 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	hs422 	 Subaltern Voices and Narratives 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11012209 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	cl613 	 Computational Fluid Dynamics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012211 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012212 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch418 	 Biological Chemistry of Metal Ions 
+	hs410 	 History of Contemporary India 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11012213 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012216 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012217 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012219 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	hs422 	 Subaltern Voices and Narratives 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11012220 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch637 	 Advanced Quantum Chemistry 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012221 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012222 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ch418 	 Biological Chemistry of Metal Ions 
+	ph446 	 Fundamentals of Astrophysics 
+	hs420 	 Writing Systems of the World 
+*********************************************************
+Roll No. : 11012223 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012224 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012225 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012226 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012228 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	cl613 	 Computational Fluid Dynamics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11012229 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012230 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs409 	 Environmental Economics 
+*********************************************************
+Roll No. : 11012231 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs410 	 History of Contemporary India 
+*********************************************************
+Roll No. : 11012232 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ch417 	 Organometallic Chemistry 
+	cl613 	 Computational Fluid Dynamics 
+	hs403 	 Entrepreneurship & Economic Development 
+*********************************************************
+Roll No. : 11012233 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ch637 	 Advanced Quantum Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012235 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012236 
+COURSE LIST:  
+	hs423 	 Masculinities in Literature and Popular Culture 
+*********************************************************
+Roll No. : 11012237 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch417 	 Organometallic Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 11012238 
+COURSE LIST:  
+	ch428 	 Drug Design and Development 
+	ch499 	 Project II 
+	ch418 	 Biological Chemistry of Metal Ions 
+	hs410 	 History of Contemporary India 
+	bt630 	 Physical Cell Biology 
+*********************************************************
+Roll No. : 11012239 
+COURSE LIST:  
+	ch499 	 Project II 
+	ch438 	 Applications of Statistical Mechanics to Chemistry 
+	ch637 	 Advanced Quantum Chemistry 
+	ph446 	 Fundamentals of Astrophysics 
+	hs406 	 Philosophical Issues 
+*********************************************************
+Roll No. : 11012240 
+COURSE LIST:  
+	hs422 	 Subaltern Voices and Narratives 
+*********************************************************
+Roll No. : 120122001 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120122002 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+	dd320 	  
+*********************************************************
+Roll No. : 120122003 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120122004 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122005 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122006 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl352 	  
+*********************************************************
+Roll No. : 120122008 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122009 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122010 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122011 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122012 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122013 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120122014 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl352 	  
+*********************************************************
+Roll No. : 120122015 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee322 	  
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120122017 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120122018 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ma312 	  
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122020 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120122023 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120122025 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120122028 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	cs345 	 Database Lab 
+	cs347 	 Compilers Lab 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122031 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	cs350 	  
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120122032 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122033 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120122035 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122036 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122038 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+	cl352 	  
+*********************************************************
+Roll No. : 120122039 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	cs350 	  
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122040 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	cl625 	 Fundamentals of Micro-nano Fluidics and Micro-Fabrication 
+*********************************************************
+Roll No. : 120122041 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122042 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl352 	  
+*********************************************************
+Roll No. : 120122044 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+*********************************************************
+Roll No. : 120122045 
+COURSE LIST:  
+	me324 	 Heat and Mass Transfer 
+	ch322 	 Petroleum and Petrochemicals 
+	ch323 	 Polymer Chemistry 
+	ch333 	 Introduction to Chemical Thermodynamics and Equilibrium 
+	ch334 	 Chemical Technology Lab III 
+	ee657 	 Pattern Recognition and Machine Learning 
+	cl352 	  
+*********************************************************
+Roll No. : 130122001 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130122003 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	cl252 	  
+	hs226 	 Macroeconomics 
+*********************************************************
+Roll No. : 130122004 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130122005 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130122006 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130122007 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130122009 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	ma212 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130122010 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130122011 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130122012 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	dd220 	  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130122014 
+COURSE LIST:  
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130122016 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130122018 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130122019 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130122020 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130122021 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130122022 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	ee213 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130122023 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs234 	 Introduction to Linguistics 
+*********************************************************
+Roll No. : 130122024 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	cl252 	  
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130122025 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	ma212 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130122026 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	cl252 	  
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130122027 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130122030 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130122032 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	cl252 	  
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130122033 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130122034 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	cl252 	  
+	hs216 	 Sociology of India : Conformities & Contradictions 
+*********************************************************
+Roll No. : 130122036 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130122039 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	ee213 	  
+	hs213 	 Consumer Behaviour 
+*********************************************************
+Roll No. : 130122040 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130122041 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	ma212 	  
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 130122042 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	cl252 	  
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130122043 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	ma212 	  
+	hs237 	 Introduction to Archeology 
+*********************************************************
+Roll No. : 130122044 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs222 	 Understanding Psychology : Individual and Works Settings 
+*********************************************************
+Roll No. : 130122045 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs223 	 Language and Society 
+*********************************************************
+Roll No. : 130122046 
+COURSE LIST:  
+	ch222 	 Applied Organic Chemistry 
+	ch233 	 Spectroscopic Techniques in Chemistry 
+	ch232 	 Computational Chemistry 
+	ch212 	 Inorganic Chemistry 
+	ch223 	 Chemical Technology Lab I 
+	hs203 	 Problems of Philosophy 
+*********************************************************
+Roll No. : 132122001 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122002 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122003 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122004 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122005 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122006 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122007 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122008 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122010 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122012 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122013 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122014 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122015 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122016 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122017 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122018 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122019 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122020 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122022 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122023 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch637 	 Advanced Quantum Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122024 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122025 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122026 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122027 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122028 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122029 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122030 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122031 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122032 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122033 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122034 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122035 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch637 	 Advanced Quantum Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122037 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+*********************************************************
+Roll No. : 132122038 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch615 	 Advanced Organometallic Chemistry 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122039 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+*********************************************************
+Roll No. : 132122040 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122041 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122042 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122043 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122044 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch640 	 Principles & Applications of Luminescence Spectroscopy 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 132122045 
+COURSE LIST:  
+	ch600 	 Project 
+	ch501 	 Computers in Chemistry 
+	ch626 	 Modern Reagents in Organic Synthesis 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 140122001 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122002 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122003 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122004 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122005 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122006 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122007 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122010 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122011 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122012 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122013 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122014 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122015 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122016 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122017 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122018 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122019 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122020 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122021 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122022 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122023 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122024 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122025 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122026 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122027 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122028 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122029 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122030 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122031 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122033 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122034 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122035 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122036 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122037 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122038 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122040 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122042 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122043 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 140122044 
+COURSE LIST:  
+	me101 	 Engineering Mechanics 
+	me110 	 Workshop I 
+	cs101 	 Introduction to Computing 
+	cs110 	 Computing Lab 
+	ma102 	 Mathematics II 
+	ee102 	 Basic Electronics Laboratory 
+	ph102 	 Physics II 
+	sa102 	 Course Name/Course No Not Found 
+	bt101 	 Modern Biology 
+*********************************************************
+Roll No. : 142122001 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122002 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122003 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122004 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122005 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122006 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122007 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122008 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122009 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122010 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122011 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122013 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122014 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122015 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122016 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122017 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122018 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122019 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122020 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122021 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122022 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122023 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122024 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122025 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122026 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122027 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122028 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122029 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122030 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122031 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122032 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122033 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122034 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122035 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122036 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122037 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122038 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122039 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122040 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122041 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122042 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122043 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122044 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122045 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122046 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122047 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 142122048 
+COURSE LIST:  
+	ch411 	 Inorganic Reaction Mechanism and Organometallics 
+	ch425 	 Organic Chemistry Laboratory 
+	ch433 	 Applications of Spectroscopy 
+	ch432 	 Chemical Dynamics & Electrochemistry 
+	ch421 	 Organic Reactions and Mechanisms 
+*********************************************************
+Roll No. : 146122001 
+COURSE LIST:  
+	ch639 	 Principles and Applications of Molecular Fluorescence. 
+*********************************************************
+Roll No. : 146122002 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+*********************************************************
+Roll No. : 146122003 
+COURSE LIST:  
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122004 
+COURSE LIST:  
+	ch639 	 Principles and Applications of Molecular Fluorescence. 
+*********************************************************
+Roll No. : 146122005 
+COURSE LIST:  
+	ch639 	 Principles and Applications of Molecular Fluorescence. 
+	ch611 	 Bioinorganic Chemistry 
+*********************************************************
+Roll No. : 146122006 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122007 
+COURSE LIST:  
+	ch639 	 Principles and Applications of Molecular Fluorescence. 
+*********************************************************
+Roll No. : 146122008 
+COURSE LIST:  
+	ch639 	 Principles and Applications of Molecular Fluorescence. 
+	ch611 	 Bioinorganic Chemistry 
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122011 
+COURSE LIST:  
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122012 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122013 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122015 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+*********************************************************
+Roll No. : 146122016 
+COURSE LIST:  
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122017 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+*********************************************************
+Roll No. : 146122018 
+COURSE LIST:  
+	ch639 	 Principles and Applications of Molecular Fluorescence. 
+	ch611 	 Bioinorganic Chemistry 
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122019 
+COURSE LIST:  
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122020 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122021 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122023 
+COURSE LIST:  
+	ch639 	 Principles and Applications of Molecular Fluorescence. 
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122024 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+*********************************************************
+Roll No. : 146122025 
+COURSE LIST:  
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122026 
+COURSE LIST:  
+	ch639 	 Principles and Applications of Molecular Fluorescence. 
+*********************************************************
+Roll No. : 146122027 
+COURSE LIST:  
+	ch639 	 Principles and Applications of Molecular Fluorescence. 
+*********************************************************
+Roll No. : 146122028 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+*********************************************************
+Roll No. : 146122029 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+*********************************************************
+Roll No. : 146122032 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122033 
+COURSE LIST:  
+	ch639 	 Principles and Applications of Molecular Fluorescence. 
+	ch611 	 Bioinorganic Chemistry 
+*********************************************************
+Roll No. : 146122034 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122035 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+	ch621 	 New Reagents for Organic Synthesis 
+*********************************************************
+Roll No. : 146122036 
+COURSE LIST:  
+	ch639 	 Principles and Applications of Molecular Fluorescence. 
+	ch636 	 Applied Biochemistry 
+*********************************************************
+Roll No. : 146122037 
+COURSE LIST:  
+	ch611 	 Bioinorganic Chemistry 
+	ch621 	 New Reagents for Organic Synthesis 
